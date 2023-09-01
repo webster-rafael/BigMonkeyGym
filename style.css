@@ -2849,7 +2849,9 @@ textarea.is-invalid {
     margin-top: 30px;
     line-height: 1.667;
     margin-bottom: 0;
+    color: white;
 }
+
 
 .title-area {
     margin-bottom: calc(var(--section-title-space) - 17px);
