@@ -1,0 +1,19 @@
+.elementor-350 .elementor-element.elementor-element-d0f6a06 .footer-wrapper {
+    background-image: url("https://wptf.themepul.co/fitmas/wp-content/uploads/2023/07/footer-1-bg-1.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-350 .elementor-element.elementor-element-d0f6a06 .widget-about .footer-logo img {
+    object-fit: cover;
+}
+
+.elementor-350 .elementor-element.elementor-element-d0f6a06 .sidebar-gallery .gallery-thumb img {
+    object-fit: cover;
+}
+
+.elementor-350 .elementor-element.elementor-element-d0f6a06 .newsletter-form .btn.style2 {
+    border-radius: 10px;
+    padding: 12px 30px 12px 30px;
+}
