@@ -8040,6 +8040,12 @@ li.trackback {
     mix-blend-mode: soft-light;
 }
 
+@media screen and (max-width: 800px){
+    .hero-slider2 {
+    
+    }
+}
+
 /* Hero 1 ---------------------------------- */
 
 .hero-wrapper .slick-arrow {
