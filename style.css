@@ -8642,7 +8642,7 @@ li.trackback {
     position: absolute;
     top: 20px;
     right: 20px;
-    background-color: var(--white-color);
+    background-color: var(--theme-color);
     border-radius: 50%;
     transform: rotate(0);
     transition: all ease 0.4s;
@@ -8700,10 +8700,17 @@ li.trackback {
 
 /* Small devices */
 
-@media (max-width: 767px) {
+@media (max-width: 850px) {
     .sidemenu-wrapper .sidemenu-content {
         width: 320px;
         padding: 80px 20px;
+        
+    }
+}
+
+@media (max-width: 800px){
+    .menu-toggle{
+        display: none;
     }
 }
 
