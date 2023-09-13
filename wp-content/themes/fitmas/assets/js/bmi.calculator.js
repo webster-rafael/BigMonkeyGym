@@ -13,7 +13,7 @@ function calculateBMI() {
         if (finalBmi < 18.5) {
             meaning = "Abaixo do Peso";
         } else if (finalBmi < 25) {
-            meaning = "Peso Ideal";
+            meaning = "Peso ideal";
         } else if (finalBmi < 30) {
             meaning = "Sobrepeso";
         } else if (finalBmi < 35) {
